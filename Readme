@@ -1,0 +1,2 @@
+This repo contains the docker file needed to build the LTR_retriever pipline:
+LTR_retriever accurately identifies and annotates LTR retrotransposons; LAI evaluates the continuity of genome assemblies. https://www.ncbi.nlm.nih.gov/pmc/arti…
